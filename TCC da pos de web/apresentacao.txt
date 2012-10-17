@@ -1,0 +1,8 @@
+- Apresentação ( Chiquitto / Rodolfo )
+- Falar das dificuldades encontradas
+	* Não padronização das maquinas virtuais dos celulares
+	* Pouco material de pesquisa
+- Apresentação do sistema
+	* Mostrar o funcionamento no emulador + fluxograma
+	* Mostrar o funcionamento no celular
+- Perguntas?
