@@ -1,4 +1,4 @@
-MIDlet-1: LyricCel,,LyricCel
+MIDlet-1: Midlet, ,LyricCel
 MIDlet-Vendor: Vendor
 MIDlet-Name: LyricCel
 MIDlet-Version: 1.0
